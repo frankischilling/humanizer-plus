@@ -1,4 +1,4 @@
 interface:
-  display_name: "Humanizer"
-  short_description: "Make AI-written text sound like the writer"
+  display_name: "Humanizer Plus"
+  short_description: "Edit formulaic prose while keeping the writer's voice"
   default_prompt: "Use $humanizer to rewrite this text in my voice without changing its facts."

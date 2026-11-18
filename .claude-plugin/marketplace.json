@@ -5,7 +5,7 @@
     "name": "blader",
     "url": "https://github.com/blader"
   },
-  "description": "Install Humanizer as a Claude plugin.",
+  "description": "Install Humanizer Plus as a Claude plugin.",
   "plugins": [
     {
       "name": "humanizer",

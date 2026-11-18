@@ -1,5 +1,12 @@
 # Changelog
 
+## 4.1.0
+
+- Added guidance for unfilled placeholders, misplaced markup, and citations that need checking. The wiki examples follow the destination's conventions.
+- Preserved author voice, substantive claims, and meaningful uncertainty. New specifics must come from the user's material or from verification they requested.
+- Updated the advice on dashes, stock words, attribution, source caveats, and edit summaries after reviewing Wikipedia's full guide. The patterns guide edits and provide no authorship verdict.
+- Shortened the README and added the source audit, contextual examples, and editorial regression tests.
+
 ## 4.0.0
 
 - The skill no longer forbids adding facts. Where the text is generic, it now adds a specific detail it knows to be true. It still keeps every claim the original made and treats a lost or changed claim as an error. This reverses the no-invention rule from 2.9.0. Patterns 14 and 17 follow the same change.
